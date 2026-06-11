@@ -1,0 +1,13 @@
+{
+  "name": "dbt-semantic-layer",
+  "version": "1.0.1",
+  "description": "Expert dbt Semantic Layer and MetricFlow skill for Claude Code — defines metrics once, uses everywhere across Tableau, Looker, Power BI, and notebooks.",
+  "author": {
+    "name": "Keith Binkly",
+    "url": "https://github.com/keithbinkly"
+  },
+  "homepage": "https://github.com/keithbinkly/dbt-semantic-layer",
+  "repository": "https://github.com/keithbinkly/dbt-semantic-layer",
+  "license": "Apache-2.0",
+  "keywords": ["dbt", "semantic-layer", "metricflow", "analytics", "metrics", "data-modeling", "bi"]
+}
